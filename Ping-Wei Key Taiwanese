@@ -1,0 +1,107 @@
+#XXXXXXXXXXXXXXXXXXXXXX
+#XXXXXXXXXXXXXXXXXXXXXX
+#XXXXXXXXXXXXXXXXXXXXXX
+#XXXXXXXXXXXXXXXXXXXXXX
+#
+#XXXXXXXXXXXXXXXXXXXXXX
+#
+
+%gen_inp
+%ename Ping-Wei
+%cname 屏偉書入法 注音輸入
+%selkey 23456789
+%space_style 1
+#%keep_key_case
+%keyname begin
+, ,
+. .
+/ /
+; ;
+' '
+1 ㄅ
+2 ㄉ
+8 ㄚ
+9 ㄞ
+0 ㄢ
+5 ㄓ
+a ㄇ
+b ㄖ
+c ㄏ
+d ㄎ
+e ㄍ
+f ㄑ
+g ㄕ
+h ㄘ
+i ㄛ
+j ㄨ
+k ㄜ
+l ㄠ
+m ㄩ
+n ㄙ
+o ㄟ
+p ㄣ
+q ㄆ
+r ㄐ
+s ㄋ
+t ㄔ
+u ㄧ
+v ㄒ
+w ㄊ
+x ㄌ
+y ㄗ
+z ㄈ
+%keyname end
+%chardef begin
+ㄅㄧㄑㄓㄧ 不要起爭議
+ㄅㄧㄑㄓㄧ 不要起爭議啦
+ㄅㄧㄑㄓㄧㄌ 不要起爭議啦
+ㄋㄗㄉㄕㄕㄇㄠ 你在大聲什麼啦
+ㄏㄕㄔㄆㄧㄉㄧㄒㄔㄗㄉ 換剎車皮一定要先拆坐墊
+ㄧㄨㄋㄓㄍㄆㄉㄍㄌ 因為你這個皮帶龜裂
+ㄨㄊㄉㄉ 我坦蕩蕩
+ㄨㄆㄅㄕ 我賠不是
+ㄋㄑㄈㄩㄐ 你去法院講
+ㄨㄉㄈㄆㄉㄉ 我都奉陪到底
+ㄍㄉㄐㄅㄨㄧ 公道價八萬一
+ㄆㄌㄓ 普利珠
+ㄌ 啦
+ㄆㄌㄓㄌ 普利珠啦
+ㄋㄒㄗㄕㄅㄕㄅㄨㄓㄒㄨ 你現在是不是把我裝笑為
+ㄋㄒㄗㄕㄅㄕㄅㄨㄓㄒㄟ 你現在是不是把我裝笑為
+ㄋㄨㄕㄇㄧㄧㄓㄍㄨㄑㄓㄧ 你為什麼要一直給我起爭議
+ㄧㄔㄐㄌㄨㄓㄌㄒㄍㄈㄉㄎㄖ 有曾經來我這裡消過費的客人
+ㄉㄓㄉ 都知道
+ㄨㄉㄓㄈ 我的做法
+ㄨㄉㄓㄖ 我的做人
+
+#以下是輸入Help後的字詞
+
+help 不要起爭議
+help 不要起爭議啦
+help 不要起爭議啦
+help 你在大聲什麼啦
+help 換剎車皮一定要先拆坐墊
+help 因為你這個皮帶龜裂
+help 我坦蕩蕩
+help 我賠不是
+help 你去法院講
+help 我都奉陪到底
+help 公道價八萬一
+help 普利珠
+help 啦
+help 普利珠啦
+help 你現在是不是把我裝笑為
+help 你為什麼要一直給我起爭議
+help 有曾經來我這裡消過費的客人
+help 都知道
+help 我的做法
+help 我的做人
+
+#以下是聯想字篇
+bucje 不要起爭議啦
+  #原不要起爭議
+wdsf 我的做人
+  #原我的做法
+pts 普利珠啦
+  #原普利珠
+%chardef end
